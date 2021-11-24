@@ -1,3 +1,3 @@
-DROP DATABASE IF EXISTS team_trkr;
-CREATE DATABASE team_trkr;
-USE team_trkr;
+DROP DATABASE IF EXISTS employee_trkr;
+CREATE DATABASE employee_trkr;
+USE employee_trkr;

@@ -1,5 +1,5 @@
 
-USE team_trkr;
+USE employee_trkr;
 DROP TABLE IF EXISTS employee;
 DROP TABLE IF EXISTS title;
 DROP TABLE IF EXISTS department;
